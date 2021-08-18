@@ -8,7 +8,18 @@ The project is a cool demonstration of an AI learning to play Black Jack by itse
 
 <br/>
 
-You can run the `BlackJackRL.ipynb` Notebook by simply cloning this repository (`git` or manually downloading the folder). Then, go into a terminal, navigate to the cloned repository, and install the necessary Python dependencies:
+You can run the `BlackJackRL.ipynb` Notebook either **locally on your laptop** or **online through Google Collaboratory**.
+
+Online on **Google Collab**:
+
+- Go to [https://colab.research.google.com/](https://colab.research.google.com/)
+- Click on import from GitHub
+- Type in the URL of this repository [https://github.com/paulcourty/BlackJackRL](https://github.com/paulcourty/BlackJackRL)
+- Open `BlackJackRL.ipynb`
+
+Locally on **laptop**:
+
+Clone this repository (`git` or manually downloading the folder), open a terminal, navigate to the cloned repository, and install the necessary Python dependencies:
 
 For **Unix/macOS**:
 
@@ -37,6 +48,6 @@ And in the web interface that just opened, navigate to `BlackJackRL.ipynb` to op
 
 <br/>
 
-The script learns an Optimal Value Function, which gives us the expected reward over time as a function of the Dealer's and Player's hands:
+The script learns an Optimal Value Function, which gives us the expected reward over time:
 
 ![Optimal Value Function Heatmap](https://github.com/paulcourty/BlackJackRL/blob/main/Optimal%20Value%20Function%203D%20Heatmap.png)
