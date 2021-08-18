@@ -37,6 +37,6 @@ And in the web interface that just opened, navigate to `BlackJackRL.ipynb` to op
 
 <br/>
 
-The script learns an Optimal Value Function, which tells us the expected rewards over time considering the dealer's hand and yours:
+The script learns an Optimal Value Function, which gives us the expected reward over time as a function of the Dealer's and Player's hands:
 
 ![Optimal Value Function Heatmap](https://github.com/paulcourty/BlackJackRL/blob/main/Optimal%20Value%20Function%203D%20Heatmap.png)
