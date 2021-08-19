@@ -8,11 +8,11 @@ The project is a cool demonstration of an AI learning to play Black Jack by itse
 
 <br/>
 
-You can run the `BlackJackRL.ipynb` Notebook either **locally on your laptop** or **online through Google Collaboratory**.
+You can run the `BlackJackRL.ipynb` Notebook either **locally on your Laptop** or **online on Google Collaboratory**.
 
 <br/>
 
-Online on **Google Collab**:
+Online on **Google Collab** (recommended):
 
 - Go to [https://colab.research.google.com/](https://colab.research.google.com/)
 - Click on import from GitHub
@@ -21,7 +21,7 @@ Online on **Google Collab**:
 
 <br/>
 
-Locally on **laptop**:
+Locally on **Laptop**:
 
 Clone this repository (`git` or manually downloading the folder), open a terminal, navigate to the cloned repository, and install the necessary Python dependencies:
 
