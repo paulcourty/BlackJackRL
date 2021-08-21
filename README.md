@@ -55,9 +55,11 @@ For **Windows**:
 
 ```sh
 py -m venv .env_BlackJackRL
-cd .env_BlackJackRL/Scripts/activate
+call .env_BlackJackRL/Scripts/activate
 pip install -r requirements.txt
 ```
+
+<br>
 
 Then, open the Jupyter environment:
 
