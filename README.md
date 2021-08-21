@@ -55,8 +55,7 @@ For **Windows**:
 
 ```sh
 py -m venv .env_BlackJackRL
-cd .env_BlackJackRL\Scripts
-activate
+cd .env_BlackJackRL/Scripts/activate
 pip install -r requirements.txt
 ```
 
