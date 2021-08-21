@@ -1,8 +1,8 @@
-# Black Jack with Reinforcement Learning
+# Reinforcement Learning with Black Jack
 
 <br>
 
-Introduction to Reinforcement Learning (Monte-Carlo algorithm) with Black Jack.
+Introduction to Reinforcement Learning - **Monte-Carlo algorithm** - with Black Jack.
 
 The project is a cool demonstration of an AI learning to play Black Jack by itself: learning from thousands of games through rewards & losses.
 
