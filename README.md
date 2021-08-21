@@ -1,25 +1,43 @@
-<h1>Black Jack Reinforcement Learning</h1>
+# Black Jack with Reinforcement Learning
 
-<br/>
+<br>
 
 Introduction to Reinforcement Learning (Monte-Carlo algorithm) with Black Jack.
 
 The project is a cool demonstration of an AI learning to play Black Jack by itself: learning from thousands of games through rewards & losses.
 
-<br/>
+<br>
+
+
+
+## Results
+
+<br>
+
+The script learns an Optimal Value Function, which gives us the expected reward over time:
+
+![Optimal Value Function Heatmap](https://github.com/paulcourty/BlackJackRL/blob/main/Optimal%20Value%20Function%203D%20Heatmap.png)
+
+<br>
+
+
+
+## How to run
+
+<br>
 
 You can run the `BlackJackRL.ipynb` Notebook either **locally on your Laptop** or **online on Google Collaboratory**.
 
-<br/>
+<br>
 
-Online on **Google Collab** (recommended):
+Online on **Google Collab** (_recommended_):
 
 - Go to [https://colab.research.google.com/](https://colab.research.google.com/)
 - Click on import from GitHub
 - Type in the URL of this repository [https://github.com/paulcourty/BlackJackRL](https://github.com/paulcourty/BlackJackRL)
 - Open `BlackJackRL.ipynb`
 
-<br/>
+<br>
 
 Locally on **Laptop**:
 
@@ -48,10 +66,6 @@ Then, open the Jupyter environment:
 jupyter lab
 ```
 
-And in the web interface that just opened, navigate to `BlackJackRL.ipynb` to open & run the Notebook !
+<br>
 
-<br/>
-
-The script learns an Optimal Value Function, which gives us the expected reward over time:
-
-![Optimal Value Function Heatmap](https://github.com/paulcourty/BlackJackRL/blob/main/Optimal%20Value%20Function%203D%20Heatmap.png)
+When the Jupyter web interface opens, navigate to `BlackJackRL.ipynb` to open & run the Notebook !
