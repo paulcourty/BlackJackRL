@@ -16,6 +16,8 @@ The project is a cool demonstration of an AI learning to play Black Jack by itse
 
 The script learns an Optimal Value Function, which gives us the expected reward over time:
 
+<br>
+
 ![Optimal Value Function Heatmap](https://github.com/paulcourty/BlackJackRL/blob/main/Optimal%20Value%20Function%203D%20Heatmap.png)
 
 <br>
